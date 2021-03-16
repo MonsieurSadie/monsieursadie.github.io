@@ -1,17 +1,22 @@
 <!DOCTYPE html>
 <meta charset="UTF-8">
 <html>
-<head>
-	<link rel="stylesheet" href="css/style.css">
-</head>
+	<head>
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<script type="text/javascript">
+			function playAsoundOnMouseOver()
+			{
+				var audio = document.getElementById("audio");
+        		audio.play();
+			}
+		</script>
 
-<body>
-	<audio src="sounds/t-res-roar.mp3" type="audio/mp3" autoplay />
 
-	<!--<img src="assets/VideGrenier01.png" class="center">
-	<p>
-	<img src="assets/VideGrenier02.png" class="center">
-	<p>
-	<img src="assets/giphy.gif" class="center">-->
-</body>
+		<img src="assets/VideGrenier01.png" class="center" />
+		<p>
+		<img src="assets/giphy.gif" class="center" onmouseover=""/>
+		<audio id="audio" src="sounds/clic.wav" type="audio/mp3" autoplay/>
+	</body>
 </html>
