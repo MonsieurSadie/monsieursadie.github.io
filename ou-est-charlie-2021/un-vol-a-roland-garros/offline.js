@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1617280130,
+	"version": 1618391487,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,7 +14,6 @@
 		"images/sanstitre-sheet0.png",
 		"images/aiguille-sheet0.png",
 		"images/sprite5-sheet0.png",
-		"images/tennis-sheet0.png",
 		"images/cacheperso2-sheet0.png",
 		"images/croixmonopoly-sheet0.png",
 		"images/cachegourde1-sheet0.png",
@@ -57,7 +56,11 @@
 		"images/restart-sheet0.png",
 		"images/introtennis_page3-sheet0.png",
 		"images/texte-sheet0.png",
+		"images/tennis-sheet0.png",
+		"images/tennisg-sheet0.png",
+		"images/tennisd-sheet0.png",
 		"media/find.ogg",
+		"media/untitled.ogg",
 		"media/coup balle v2.ogg",
 		"media/angry men v2.ogg",
 		"media/groupies.ogg",
