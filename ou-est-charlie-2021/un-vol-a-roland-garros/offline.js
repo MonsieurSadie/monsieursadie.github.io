@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1618391487,
+	"version": 1619626220,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -56,9 +56,10 @@
 		"images/restart-sheet0.png",
 		"images/introtennis_page3-sheet0.png",
 		"images/texte-sheet0.png",
-		"images/tennis-sheet0.png",
-		"images/tennisg-sheet0.png",
-		"images/tennisd-sheet0.png",
+		"images/tennis_sd_rescaled_lt-sheet0.png",
+		"images/tennis_sd_rescaled_td-sheet0.png",
+		"images/tennis_sd_rescaled_lb-sheet0.png",
+		"images/tennis_sd_rescaled_bd-sheet0.png",
 		"media/find.ogg",
 		"media/untitled.ogg",
 		"media/coup balle v2.ogg",
